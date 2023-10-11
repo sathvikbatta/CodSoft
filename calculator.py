@@ -14,7 +14,7 @@ def divide(P, Q):
     return P / Q
 
 
-# Now we will take inputs from the user
+
 print("Please select the operation.")
 print("a. Add")
 print("b. Subtract")
